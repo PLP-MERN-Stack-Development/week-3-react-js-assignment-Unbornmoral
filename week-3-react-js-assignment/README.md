@@ -1,5 +1,10 @@
 # Week 3 React.js, JSX, and Tailwind CSS Assignment
 
+## 🌐 Deployment
+
+This app is deployed at:  
+[https://plp-mern-stack-development.github.io/week-3-react-js-assignment-Unbornmoral/](https://plp-mern-stack-development.github.io/week-3-react-js-assignment-Unbornmoral/)
+
 ## 🚀 Overview
 
 This project is a responsive React application built with Vite and styled using Tailwind CSS. It demonstrates component architecture, state management with hooks, API integration, and theming (light/dark mode).
@@ -73,10 +78,7 @@ src/
 
 ---
 
-## 🌐 Deployment
 
-This app is deployed at:  
-[https://your-deployed-url](https://your-deployed-url)
 
 ---
 
